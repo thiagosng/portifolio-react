@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portifolio-react/static/css/main.6cb7f209.chunk.css",
+    "main.js": "/portifolio-react/static/js/main.5e73810f.chunk.js",
+    "main.js.map": "/portifolio-react/static/js/main.5e73810f.chunk.js.map",
+    "runtime-main.js": "/portifolio-react/static/js/runtime-main.e049626d.js",
+    "runtime-main.js.map": "/portifolio-react/static/js/runtime-main.e049626d.js.map",
+    "static/js/2.0dc512db.chunk.js": "/portifolio-react/static/js/2.0dc512db.chunk.js",
+    "static/js/2.0dc512db.chunk.js.map": "/portifolio-react/static/js/2.0dc512db.chunk.js.map",
+    "index.html": "/portifolio-react/index.html",
+    "static/css/main.6cb7f209.chunk.css.map": "/portifolio-react/static/css/main.6cb7f209.chunk.css.map",
+    "static/js/2.0dc512db.chunk.js.LICENSE.txt": "/portifolio-react/static/js/2.0dc512db.chunk.js.LICENSE.txt",
+    "static/media/svg-10.823583ce.svg": "/portifolio-react/static/media/svg-10.823583ce.svg",
+    "static/media/svg-11.6bff0307.svg": "/portifolio-react/static/media/svg-11.6bff0307.svg",
+    "static/media/svg-12.ccae12d4.svg": "/portifolio-react/static/media/svg-12.ccae12d4.svg",
+    "static/media/svg-7.27b2bf9b.svg": "/portifolio-react/static/media/svg-7.27b2bf9b.svg",
+    "static/media/svg-8.2f1aaa15.svg": "/portifolio-react/static/media/svg-8.2f1aaa15.svg",
+    "static/media/svg-9.78caaaf4.svg": "/portifolio-react/static/media/svg-9.78caaaf4.svg",
+    "static/media/video.d48e2181.mp4": "/portifolio-react/static/media/video.d48e2181.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e049626d.js",
+    "static/js/2.0dc512db.chunk.js",
+    "static/css/main.6cb7f209.chunk.css",
+    "static/js/main.5e73810f.chunk.js"
+  ]
+}
