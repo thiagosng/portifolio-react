@@ -30,7 +30,7 @@ const Services = () => {
                 <ServicesCard>
                     <ServicesIcon src={Icon1}/>
                     <ServicesH2>Git</ServicesH2>
-                    <ServicesP>2 Anos de experiência com o sistema de controle de versão GIT </ServicesP>
+                    <ServicesP>2 Anos de experiência com o sistema de controle de versão GIT e conhecimentos em padrões de commit </ServicesP>
                 </ServicesCard>
             </ServicesWrapper>
        </ServicesContainer>
